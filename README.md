@@ -1,7 +1,7 @@
-# Hi there!👋:
-# 💫 About Me: Computer Engineering Student
+# Hey!👋:
+# About Me: Computer Engineering Student
 
-🛠️ I'm currently working on developing a next-generation adversary emulation platform that integrates modular attack automation, encrypted communications, and real-time intelligence gathering for Red and Blue Team operations<br><br>🤝 I'm looking to collaborate on cybersecurity research projects, especially those involving advanced threat modeling or pentesting.<br><br>📚 I'm currently learning low-level programming, delving into kernel development, and exploring new frameworks for secure IoT deployments.<br><br>💡 Ask me about modern C++ best practices, network security strategies, or how to optimize real-time data processing pipelines.<br><br>⚡ Fun fact: I once reverse-engineered a game’s networking protocol just to automate a task that annoyed me.
+I'm currently learning low-level programming, delving into kernel development, and cybersecurity.<br><br> Fun fact: I once reverse-engineered a game’s networking protocol just to automate a task that annoyed me.
 
 
 ## 🌐 Socials:
