@@ -1,7 +1,7 @@
 # Hey!👋:
 # About Me: Computer Engineering Student
 
-I'm currently learning low-level programming, delving into kernel development, and cybersecurity.<br><br> Fun fact: I once reverse-engineered a game’s networking protocol just to automate a task that annoyed me.
+I'm currently learning low-level programming, delving into kernel development, and cybersecurity.<br><br> 
 
 
 ## 🌐 Socials:
